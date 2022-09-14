@@ -1,0 +1,2 @@
+# Phishchain
+Phishchain, which is based on classification or association algorithms, is a clever and successful model for phishing perception and prediction.   The goal of this work was achieved by the creation of a model that will protect users from phishing attacks with 99% accuracy.The blacklist-based strategy is useless because it is now easier to create a new domain. Therefore, a comprehensive blacklist along with perfect, modern database learning techniques are used to train our system for greater accuracy.
